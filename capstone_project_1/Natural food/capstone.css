@@ -1,0 +1,395 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: Tahoma;
+}
+.div_main{
+    height: 6200px;
+    width: 100%;
+    background-color:white ;
+    position: relative;
+}
+.sim{
+    text-align: left;
+    height: 20px;
+    width: 130px;
+    border:1px solid white ;
+    position: absolute;
+    left: 120px;
+    top: 20px;
+}
+
+#a{
+    color:white ;
+    margin-left:60px ;
+}
+.sim1{
+    height: 20px;
+    width: 130px;
+    position: absolute;
+    left: 1230px;
+    top: 20px;
+}
+#b{
+    color:white ;
+}
+.had{
+    color: white;
+    padding:0 ;
+    margin: 0;
+}
+
+.d1{
+    height: 700px;
+    width: 100%;
+    background-image: url(images/fruits.jpg);
+    background-size: cover;
+}
+.d2{
+    height: 600px;
+    width: 1500px;
+    background-color: white;
+    margin: 0px;
+}
+.d3{
+    height: 850px;
+    width: 100%;
+    background-color: pink;
+    background-image: url(images/fruit101.jpg);
+    background-size: cover;
+    background-size: 100% 900px;
+    background-repeat: no-repeat;
+}
+.h1{
+    font-size: 65px;
+    color: white;
+    padding-top: 270px;
+}
+.p1{
+    color: floralwhite;
+    font-size:20px;
+}
+.s1{
+    color: white;
+    border-radius: 0;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    background-color: limegreen;
+    padding-left:50px ;
+    padding-right:50px ;
+    margin-right: 10px;
+}
+.f1{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 0;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    padding-left:20px ;
+    padding-right:20px ;
+    margin-right: 10px;
+}
+
+.si1{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+}
+.si2{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+}
+
+.si3{
+    height: 300px;
+    width: 750px;
+    background-color: indianred;
+    float: left;
+}
+
+.si21{
+    height: 300px;
+    width: 375px;
+    background-color: white;
+    float: left;
+}
+.i1{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.si22{
+    height: 300px;
+    width: 375px;
+    background-color: white;
+    float: right;
+    }
+.h2{
+    margin-top:70px ;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.p2{
+    color: grey;
+}
+}
+.si4{
+    height: 300px;
+    width: 750px;
+    background-color: white;
+    float: right;
+}
+
+.si5{
+    height: 300px;
+    width: 750px;
+    background-color: orange;
+    float: left;
+}
+
+.si6{
+    height: 300px;
+    width: 750px;
+    background-color: white;
+    float: right;
+}
+.h3{
+    margin: 0px;
+    padding-top: 100px;
+    padding-left: 150px;
+    font-size: 50px;
+}
+.p3{
+    padding-left: 150px;
+    font-size: 25px;
+}
+.s2{
+    color: whitesmoke;
+    border-radius: 0;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    background-color: limegreen;
+    padding-left:60px ;
+    padding-right:60px ;
+    margin-left: 150px;
+}
+.d4{
+    
+    height: 650px;
+    width: 100%;
+    background-color: aqua;
+}
+.c1{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+.h4{
+    margin: 0px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.c2{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+.c21{
+    height: 350px;
+    width: 255px;
+    background-color: rosybrown;
+    float: left;
+    border-radius: 50px;
+    position: absolute;
+    top:25px;
+    left:500px ;
+}
+.c22{
+    height: 350px;
+    width: 255px;
+    background-color: white;
+    float: left;
+    border-radius: 50px;
+    position: absolute;
+    top:25px;
+    left:800px ;
+}
+.c23{
+    height: 350px;
+    width: 255px;
+    background-color: yellow;
+    float: right;
+    border-radius: 50px;
+    position: absolute;
+    top:25px;
+    left:1100px ;
+}
+.i2{
+    height: 350px;
+    width: 255px;
+    border-radius: 50px;
+}
+
+.c3{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+
+.s3{
+    color: white;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    background-color: limegreen;
+    padding-left:40px ;
+    padding-right:40px ;
+    margin-right: 10px;
+}
+
+.d5{
+    height: 700px;
+    width: 100%;
+    background-color: orange;
+    background-image: url(images/icecream.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 850px;
+}
+
+.h5{
+    color: whitesmoke;
+    margin: 0px;
+    padding-top: 200px;
+    padding-left: 135px;
+    font-size: 60px;
+}
+.p4{
+    color: white;
+    padding-left: 150px;
+    font-size: 25px;
+}
+.s4{
+    color: white;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    background-color: limegreen;
+    padding-left:40px ;
+    padding-right:40px ;
+    margin-left: 250px;
+}
+.d6{
+    height: 900px;
+    width: 100%px;
+    background-color: whitesmoke;
+    background-image: url(images/vegetables.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%px 940px;
+}
+.h6{
+    margin: 0px;
+    padding-left: 115px;
+    padding-top:20px;
+}
+.p5{
+    padding-left: 115px;
+    font-size: 25px;
+}
+
+.d7{
+
+    height: 900px;
+    width: 100%;
+    background-color: orange;
+    background-image: url(images/fruit102.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.h7{
+    color: black;
+    margin: 0px;
+    padding-top: 250px;
+    padding-left: 100px;
+    font-size: 100px;
+}
+.p6{
+    color: black;
+    font-size: 35px;
+}
+.s5{
+    color: white;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    background-color: limegreen;
+    padding-left:40px ;
+    padding-right:40px ;
+    margin-left: 10px;
+}
+.d8{
+
+    height: 500px;
+    width: 100%;
+    background-color: orange;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.h8{
+    color: white;
+    margin: 0px;
+    padding-top: 70px;
+    
+    font-size: 80px;
+}
+.p7{
+    color: white;
+    font-size: 15px;
+}
+.p8{
+    color: white;
+    font-size: 15px;
+    margin: 0;
+    padding-top: 20px;
+}
+.cat{
+    height:300px;
+    width:250px;
+     border-radius: 20%;
+}
+.s6{
+    text-align: left;
+    color: grey;
+    margin:10px ;
+    padding :10px;
+    border-radius: 20px;
+    border:2px solid limegreen ;
+    padding-right:350px ;
+    margin-left: 10px;
+}
+.s7{
+    text-align:center;
+    border-radius: 20px;
+    background-color: limegreen;
+    color: white;
+    padding :10px;
+    padding-left: 160px;
+    padding-right:150px ;
+}
+
+.d9{
+    height: 200px;
+    width: 100%;
+    background-color:grey;
+}
